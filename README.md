@@ -32,7 +32,7 @@ Proxmox VE (Virtual Server)
 
 ### Proxmox VE
 - Role: Virtualization platform
-- Access: Web interface (`https://<proxmox-ip>:8006`)
+- Access: Web interface (`https://192.168.89.200:8006`)
 - Manages all VMs and networking
 
 ### Ubuntu Server
@@ -69,7 +69,7 @@ Proxmox VE (Virtual Server)
 
 Custom tool:
 - Python-based Nmap automation script  
-  👉 *(linked in a separate repository)*
+  👉 https://github.com/AliSai22/nmap-automation/blob/main/nmap_scan.py
 
 ---
 
